@@ -1,0 +1,9 @@
+# Bisect walk cache
+xrp-supply-audit-cache.json
+
+# Generated reports
+report*.json
+
+node_modules/
+.DS_Store
+*.swp

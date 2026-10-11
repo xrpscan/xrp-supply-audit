@@ -1,0 +1,10 @@
+{
+  "name": "xrp-supply-audit",
+  "version": "1.0.0",
+  "description": "Reconcile XRP total_coins against the sum of all XRP-holding ledger objects",
+  "type": "module",
+  "bin": { "xrp-supply-audit": "./xrp-supply-audit.js" },
+  "scripts": { "audit": "node xrp-supply-audit.js" },
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
